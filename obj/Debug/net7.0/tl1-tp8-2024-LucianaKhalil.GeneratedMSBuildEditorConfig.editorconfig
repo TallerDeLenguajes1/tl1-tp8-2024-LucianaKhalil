@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tl1_tp8_2024_LucianaKhalil
-build_property.ProjectDir = C:\Users\Alumno\Documents\tl1-tp8-2024-LucianaKhalil\
+build_property.ProjectDir = C:\Users\Usuario\OneDrive\Documentos\2024\TallerLenguaje1\tl1-tp8-2024-LucianaKhalil\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
